@@ -1,6 +1,5 @@
 # 🧠 Skin Cancer Detection using CNN | Multi-Class Image Classification
 
-![Skin Cancer Banner](https://user-images.githubusercontent.com/your-image.png) 
 
 ## 📌 Overview
 
